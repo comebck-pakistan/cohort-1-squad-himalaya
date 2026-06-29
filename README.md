@@ -11,37 +11,38 @@
 - Mirza Raheel Baig
 - Muhammad Danish
 
+**GitHub usernames:**
+
+- [@muaz-nadeem](https://github.com/muaz-nadeem)
+- [@MianDanish1122](https://github.com/MianDanish1122)
+- [@raheel1-6](https://github.com/raheel1-6)
+- [@malakabdullah12345678910-byte](https://github.com/malakabdullah12345678910-byte)
+
 ---
 
 ## 💡 Our Idea
 
-Our squad is building from **one** of the ten ideas in the
-[Cohort 1 Product Challenge](https://github.com/Comebck-Pakistan/cohort-1-product-challenge). The
-idea is a starting line, not a spec — our job is to **narrow it** to one specific user,
-one painful problem, and one small thing we can ship in 8 weeks.
+Our squad picked **[Idea 2 — The Urdu-First Study Coach](https://github.com/Comebck-Pakistan/cohort-1-product-challenge#idea-2--the-urdu-first-study-coach)** from the [Cohort 1 Product Challenge](https://github.com/Comebck-Pakistan/cohort-1-product-challenge). Below are our ideation-stage validation answers, reproduced exactly as we submitted them.
 
-**Pick one of the ten ideas, then delete the rest of this list:**
+### One specific user
 
-1. The Small-Business Brain (WhatsApp-first)
-2. The Urdu-First Study Coach
-3. The Shoebox-to-Books Bookkeeper
-4. The Freelancer's Co-Pilot
-5. The Always-On Front Desk (Voice/WhatsApp Agent)
-6. The Farmer's Advisor in Your Pocket
-7. The SME Paperwork Generator
-8. The Social-Commerce Support Agent
-9. The Fair First-Round Recruiter
-10. The Public-Services Navigator
+An FSc Part-2 student in Lahore preparing for MDCAT 2026 for the first time, weak in Biology, whose family cannot afford a private tutor and is relying entirely on self-study and YouTube.
 
-### 📌 Our pick
+### The painful problem
 
-> _Fill this in as a squad._
+he studies from static notes and YouTube but has no structured plan. he re-reads whole chapters instead of targeting his actual weak spot. With 7 weeks left, he has no way to know if he's on track to clear the cutoff. A failed attempt costs him an entire year.
 
-- **Idea we picked:** _#__ — ____________________________________________
-- **One specific user:** _______________________________________________
-- **The painful problem:** _____________________________________________
-- **Our 8-week wedge (the one small thing we'll ship):** _______________
-- **The one number that proves people want it:** _______________________
+### Our 8-week wedge
+
+An adaptive study planner for MDCAT 2026. A student answers 10 diagnostic questions, gets a personalized weekly topic schedule targeting his weak areas, and receives daily MCQ practice. Scoped to MDCAT Biology only, nothing else.
+
+### The one number that proves people want it
+
+10 MDCAT students who complete a full adaptive week and return to start week two without any reminder from us.
+
+### Why we picked this idea
+
+MDCAT 2026 is in August, students are in panic mode right now. We can walk into any FSc college or academy in our city this week and find our exact users. We have a personal connection to the pressure of high-stakes Pakistani exams, and we know the cost of failure is a lost year of someone's life. The deadline is fixed, the pain is acute, and the users are physically reachable.
 
 ---
 
